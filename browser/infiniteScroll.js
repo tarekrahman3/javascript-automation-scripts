@@ -1,4 +1,4 @@
-// window.xpath = $x;
+window.xpath = $x;
 let DATA_XPATH = "//[]";
 let loadedData;
 while (true) {
