@@ -1,5 +1,5 @@
 // window.xpath = $x;
-let DATA_XPATH = "XPATH";
+let DATA_XPATH = "//[]";
 let loadedData;
 while (true) {
         window.scrollTo({
